@@ -1,0 +1,1 @@
+aws cognito-idp initiate-auth --cli-input-json file://init_challenge.json > authinit.json

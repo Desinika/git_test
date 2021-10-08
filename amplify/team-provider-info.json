@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkedinfe-dev-92508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::773568105361:role/amplify-linkedinfe-dev-92508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::773568105361:role/amplify-linkedinfe-dev-92508-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-linkedinfe-dev-92508-deployment",
+      "UnauthRoleName": "amplify-linkedinfe-dev-92508-unauthRole",
+      "StackName": "amplify-linkedinfe-dev-92508",
+      "StackId": "arn:aws:cloudformation:us-east-2:773568105361:stack/amplify-linkedinfe-dev-92508/e473d5f0-19e3-11ec-bcdc-06572970cb40",
+      "AmplifyAppId": "d3rkkpkd6zqwsn"
+    },
+    "categories": {
+      "auth": {
+        "linkedinfed9795f86": {}
+      }
+    }
+  }
+}
